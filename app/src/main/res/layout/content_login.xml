@@ -38,5 +38,10 @@
         android:hint="password"
         android:paddingEnd="2dp"
         android:paddingStart="2dp" />
+    <Button
+        android:text="button"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:id="@+id/loginbutton" />
 
 </LinearLayout>
